@@ -1,2 +1,2 @@
 # -AppUITest
-hi,this is a smartlock function test.include remote unlock test,upgrade gateway test and remote modifylockcode test
+hi,this is a smart door lock App function test.include remote lock test, gateway upgrade test and remote modifylockcode test
