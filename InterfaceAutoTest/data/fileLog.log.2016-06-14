@@ -1,0 +1,28 @@
+2016-06-14 15:59:49 [main]-[INFO] 测试数据xls{reason=, 执行结果=pass, phone=18767191571, contace=314922902@qq.com, 是否执行=Y, state=success, 编号=1, content=5444}
+2016-06-14 15:59:50 [main]-[INFO] result is{"reason":"","status":"success"}
+2016-06-14 15:59:50 [main]-[INFO] compareMaplast is{reason=, state=success}
+2016-06-14 15:59:50 [main]-[INFO] resultmap is{reason=, status=success}
+2016-06-14 15:59:50 [main]-[ERROR] failed
+2016-06-14 15:59:50 [main]-[INFO] 测试失败,发送的数据是{reason=, 执行结果=pass, phone=18767191571, contace=314922902@qq.com, 是否执行=Y, state=success, 编号=1, content=5444}
+2016-06-14 15:59:50 [main]-[INFO] 结果是:{"reason":"","status":"success"}
+2016-06-14 18:41:30 [main]-[INFO] 测试数据xls:{reason=设备不在线, code=1, 执行结果=failed, 是否执行=Y, uuid=b4def46a5a6a4289a4a07f8040d44ed3, dev_Type=1, 编号=1, result=true, password=A3CFC9772FB343226297FCA0690D7EF3, phone=17767188213, serial=TEST000000000001, param=Gy04jBfiWpgmmA365AmGxgIK8v+SCTXn9dWTi92Ki5W27wFlOOu7H+Ci3rv51j7s9xbw/AkSKjXJeUB89eWJsrwwRzXJD5s1Gf5+SuwAaOQuDxKnS4MchKhunMTEQXbntV12152dUP4qI3sIvsH0b0cOWPrESyApst5e2k0A1U0P5AGr53LeFZ2/NuhDYmBV4sa7P1yYes6e0mr83q3SKd1BBPMXjK6pHH3jrk19MJRkLz+fsTVWd50pF25Tdbyqk3vkbF7TdoBmRxpnS6Fydb/i+hUQGRlZlx6hc7dm4fnm/YmeDLo/EJmUuE6rpkSvOdj7zXvIvnpx0lFxHK3jbQ==, state=fail, operation=Unlock, desc=fail}
+2016-06-14 18:41:31 [main]-[INFO] result is:{"reason":"参数有误","state":"fail"}
+2016-06-14 18:41:31 [main]-[INFO] comparemaplast is{reason=设备不在线, state=fail}
+2016-06-14 18:41:31 [main]-[INFO] resultmap is{reason=参数有误, state=fail}
+2016-06-14 18:41:31 [main]-[ERROR] failed
+2016-06-14 18:41:31 [main]-[INFO] test failed,input data is: {reason=设备不在线, code=1, 执行结果=failed, 是否执行=Y, uuid=b4def46a5a6a4289a4a07f8040d44ed3, dev_Type=1, 编号=1, result=true, password=A3CFC9772FB343226297FCA0690D7EF3, phone=17767188213, serial=TEST000000000001, param=Gy04jBfiWpgmmA365AmGxgIK8v+SCTXn9dWTi92Ki5W27wFlOOu7H+Ci3rv51j7s9xbw/AkSKjXJeUB89eWJsrwwRzXJD5s1Gf5+SuwAaOQuDxKnS4MchKhunMTEQXbntV12152dUP4qI3sIvsH0b0cOWPrESyApst5e2k0A1U0P5AGr53LeFZ2/NuhDYmBV4sa7P1yYes6e0mr83q3SKd1BBPMXjK6pHH3jrk19MJRkLz+fsTVWd50pF25Tdbyqk3vkbF7TdoBmRxpnS6Fydb/i+hUQGRlZlx6hc7dm4fnm/YmeDLo/EJmUuE6rpkSvOdj7zXvIvnpx0lFxHK3jbQ==, state=fail, operation=Unlock, desc=fail}
+2016-06-14 18:41:31 [main]-[INFO] 结果是：{"reason":"参数有误","state":"fail"}
+2016-06-14 18:41:43 [main]-[INFO] 测试数据xls:{reason=设备不在线, code=1, 执行结果=failed, 是否执行=Y, uuid=b4def46a5a6a4289a4a07f8040d44ed3, dev_Type=1, 编号=1, result=true, password=A3CFC9772FB343226297FCA0690D7EF3, phone=17767188213, serial=TEST000000000001, param=Gy04jBfiWpgmmA365AmGxgIK8v+SCTXn9dWTi92Ki5W27wFlOOu7H+Ci3rv51j7s9xbw/AkSKjXJeUB89eWJsrwwRzXJD5s1Gf5+SuwAaOQuDxKnS4MchKhunMTEQXbntV12152dUP4qI3sIvsH0b0cOWPrESyApst5e2k0A1U0P5AGr53LeFZ2/NuhDYmBV4sa7P1yYes6e0mr83q3SKd1BBPMXjK6pHH3jrk19MJRkLz+fsTVWd50pF25Tdbyqk3vkbF7TdoBmRxpnS6Fydb/i+hUQGRlZlx6hc7dm4fnm/YmeDLo/EJmUuE6rpkSvOdj7zXvIvnpx0lFxHK3jbQ==, state=fail, operation=Unlock, desc=fail}
+2016-06-14 18:41:43 [main]-[INFO] result is:{"reason":"参数有误","state":"fail"}
+2016-06-14 18:41:43 [main]-[INFO] comparemaplast is{reason=设备不在线, state=fail}
+2016-06-14 18:41:43 [main]-[INFO] resultmap is{reason=参数有误, state=fail}
+2016-06-14 18:41:43 [main]-[ERROR] failed
+2016-06-14 18:41:43 [main]-[INFO] test failed,input data is: {reason=设备不在线, code=1, 执行结果=failed, 是否执行=Y, uuid=b4def46a5a6a4289a4a07f8040d44ed3, dev_Type=1, 编号=1, result=true, password=A3CFC9772FB343226297FCA0690D7EF3, phone=17767188213, serial=TEST000000000001, param=Gy04jBfiWpgmmA365AmGxgIK8v+SCTXn9dWTi92Ki5W27wFlOOu7H+Ci3rv51j7s9xbw/AkSKjXJeUB89eWJsrwwRzXJD5s1Gf5+SuwAaOQuDxKnS4MchKhunMTEQXbntV12152dUP4qI3sIvsH0b0cOWPrESyApst5e2k0A1U0P5AGr53LeFZ2/NuhDYmBV4sa7P1yYes6e0mr83q3SKd1BBPMXjK6pHH3jrk19MJRkLz+fsTVWd50pF25Tdbyqk3vkbF7TdoBmRxpnS6Fydb/i+hUQGRlZlx6hc7dm4fnm/YmeDLo/EJmUuE6rpkSvOdj7zXvIvnpx0lFxHK3jbQ==, state=fail, operation=Unlock, desc=fail}
+2016-06-14 18:41:43 [main]-[INFO] 结果是：{"reason":"参数有误","state":"fail"}
+2016-06-14 19:23:06 [main]-[INFO] 测试数据xls:{reason=设备不在线, code=1, 执行结果=failed, 是否执行=Y, uuid=b4def46a5a6a4289a4a07f8040d44ed3, dev_Type=1, 编号=1, result=true, password=A3CFC9772FB343226297FCA0690D7EF3, phone=17767188213, serial=TEST000000000001, param=Gy04jBfiWpgmmA365AmGxgIK8v+SCTXn9dWTi92Ki5W27wFlOOu7H+Ci3rv51j7s9xbw/AkSKjXJeUB89eWJsrwwRzXJD5s1Gf5+SuwAaOQuDxKnS4MchKhunMTEQXbntV12152dUP4qI3sIvsH0b0cOWPrESyApst5e2k0A1U0P5AGr53LeFZ2/NuhDYmBV4sa7P1yYes6e0mr83q3SKd1BBPMXjK6pHH3jrk19MJRkLz+fsTVWd50pF25Tdbyqk3vkbF7TdoBmRxpnS6Fydb/i+hUQGRlZlx6hc7dm4fnm/YmeDLo/EJmUuE6rpkSvOdj7zXvIvnpx0lFxHK3jbQ==, state=fail, operation=Unlock, desc=fail}
+2016-06-14 19:23:07 [main]-[INFO] result is:{"reason":"参数有误","state":"fail"}
+2016-06-14 19:23:07 [main]-[INFO] comparemaplast is{reason=设备不在线, state=fail}
+2016-06-14 19:23:07 [main]-[INFO] resultmap is{reason=参数有误, state=fail}
+2016-06-14 19:23:07 [main]-[ERROR] failed
+2016-06-14 19:23:07 [main]-[INFO] test failed,input data is: {reason=设备不在线, code=1, 执行结果=failed, 是否执行=Y, uuid=b4def46a5a6a4289a4a07f8040d44ed3, dev_Type=1, 编号=1, result=true, password=A3CFC9772FB343226297FCA0690D7EF3, phone=17767188213, serial=TEST000000000001, param=Gy04jBfiWpgmmA365AmGxgIK8v+SCTXn9dWTi92Ki5W27wFlOOu7H+Ci3rv51j7s9xbw/AkSKjXJeUB89eWJsrwwRzXJD5s1Gf5+SuwAaOQuDxKnS4MchKhunMTEQXbntV12152dUP4qI3sIvsH0b0cOWPrESyApst5e2k0A1U0P5AGr53LeFZ2/NuhDYmBV4sa7P1yYes6e0mr83q3SKd1BBPMXjK6pHH3jrk19MJRkLz+fsTVWd50pF25Tdbyqk3vkbF7TdoBmRxpnS6Fydb/i+hUQGRlZlx6hc7dm4fnm/YmeDLo/EJmUuE6rpkSvOdj7zXvIvnpx0lFxHK3jbQ==, state=fail, operation=Unlock, desc=fail}
+2016-06-14 19:23:07 [main]-[INFO] 结果是：{"reason":"参数有误","state":"fail"}

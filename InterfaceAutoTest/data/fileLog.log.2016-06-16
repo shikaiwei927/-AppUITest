@@ -1,0 +1,9 @@
+2016-06-16 11:18:02 [main]-[INFO] 测试数据xls:{=, reason=, password=123456, 执行结果=failed, phone=18767191571, serial=TEST000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-16 11:18:02 [main]-[INFO] test failed,input data is: {=, reason=, password=123456, 执行结果=failed, phone=18767191571, serial=TEST000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-16 11:18:02 [main]-[INFO] 结果是：{"reason":"该设备已被手机号为17767188213的用户绑定","state":"fail"}
+2016-06-16 11:18:02 [main]-[INFO] 测试数据xls:{=, reason=该设备已被手机号为15000000001的用户绑定, password=123456, 执行结果=failed, phone=18537242890, serial=TXAA000000000003, 是否执行=Y, state=fail, 编号=2}
+2016-06-16 11:18:02 [main]-[INFO] test failed,input data is: {=, reason=该设备已被手机号为15000000001的用户绑定, password=123456, 执行结果=failed, phone=18537242890, serial=TXAA000000000003, 是否执行=Y, state=fail, 编号=2}
+2016-06-16 11:18:02 [main]-[INFO] 结果是：{"reason":"该设备未登记，请联系我们售后客服查实","state":"fail"}
+2016-06-16 11:18:03 [main]-[INFO] 测试数据xls:{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=failed, phone=15000000001, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-16 11:18:03 [main]-[INFO] test failed,input data is: {=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=failed, phone=15000000001, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-16 11:18:03 [main]-[INFO] 结果是：{"reason":"没有权限，重新登录尝试","state":"fail"}

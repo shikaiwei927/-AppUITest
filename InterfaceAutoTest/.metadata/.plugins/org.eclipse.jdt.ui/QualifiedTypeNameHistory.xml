@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="unitTest.MD5Util"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="sun.security.mscapi.RSASignature.MD5"/>
+<fullyQualifiedTypeName name="stc.skymobi.unit.cmds.newUnit"/>
+<fullyQualifiedTypeName name="unitTest.AESEncryptor"/>
+<fullyQualifiedTypeName name="io.netty.handler.codec.http.HttpRequest"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.h3tech.app.unit.Map2Json"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

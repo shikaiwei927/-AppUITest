@@ -1,0 +1,63 @@
+2016-06-11 11:38:39 [main]-[INFO] 测试数据xls{=, reason=, password=123456, 执行结果=failed, phone=18767191571, serial=TXAA000000000003, 是否执行=Y, state=success, 编号=1}
+2016-06-11 11:38:40 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:38:40 [main]-[INFO] compareMaplast is{reason=, state=success}
+2016-06-11 11:38:40 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-11 11:38:40 [main]-[ERROR] failed
+2016-06-11 11:38:40 [main]-[INFO] 测试失败,发送的数据是{=, reason=, password=123456, 执行结果=failed, phone=18767191571, serial=TXAA000000000003, 是否执行=Y, state=success, 编号=1}
+2016-06-11 11:38:40 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:38:41 [main]-[INFO] 测试数据xls{=, reason=该设备已被手机号为15000000001的用户绑定, password=123456, 执行结果=failed, phone=18537242890, serial=TXAA000000000003, 是否执行=Y, state=fail, 编号=2}
+2016-06-11 11:38:41 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:38:41 [main]-[INFO] compareMaplast is{reason=该设备已被手机号为15000000001的用户绑定, state=fail}
+2016-06-11 11:38:41 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-11 11:38:41 [main]-[ERROR] failed
+2016-06-11 11:38:41 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备已被手机号为15000000001的用户绑定, password=123456, 执行结果=failed, phone=18537242890, serial=TXAA000000000003, 是否执行=Y, state=fail, 编号=2}
+2016-06-11 11:38:41 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:38:42 [main]-[INFO] 测试数据xls{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=failed, phone=15000000001, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-11 11:38:42 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:38:42 [main]-[INFO] compareMaplast is{reason=该设备未登记，请联系我们售后客服查实, state=fail}
+2016-06-11 11:38:42 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-11 11:38:42 [main]-[ERROR] failed
+2016-06-11 11:38:42 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=failed, phone=15000000001, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-11 11:38:42 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:41:40 [main]-[INFO] 测试数据xls{=, reason=, password=123456, 执行结果=failed, phone=17767188213, serial=TXAA000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-11 11:41:41 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:41:41 [main]-[INFO] compareMaplast is{reason=, state=success}
+2016-06-11 11:41:41 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-11 11:41:41 [main]-[ERROR] failed
+2016-06-11 11:41:41 [main]-[INFO] 测试失败,发送的数据是{=, reason=, password=123456, 执行结果=failed, phone=17767188213, serial=TXAA000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-11 11:41:41 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:41:41 [main]-[INFO] 测试数据xls{=, reason=该设备已被手机号为17767188213的用户绑定, password=123456, 执行结果=failed, phone=18767188213, serial=TXAA000000000001, 是否执行=Y, state=fail, 编号=2}
+2016-06-11 11:41:41 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:41:41 [main]-[INFO] compareMaplast is{reason=该设备已被手机号为17767188213的用户绑定, state=fail}
+2016-06-11 11:41:41 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-11 11:41:41 [main]-[ERROR] failed
+2016-06-11 11:41:41 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备已被手机号为17767188213的用户绑定, password=123456, 执行结果=failed, phone=18767188213, serial=TXAA000000000001, 是否执行=Y, state=fail, 编号=2}
+2016-06-11 11:41:41 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:41:42 [main]-[INFO] 测试数据xls{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=pass, phone=15000000001, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-11 11:41:42 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:41:42 [main]-[INFO] compareMaplast is{reason=该设备未登记，请联系我们售后客服查实, state=fail}
+2016-06-11 11:41:42 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-11 11:41:42 [main]-[ERROR] failed
+2016-06-11 11:41:42 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=pass, phone=15000000001, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-11 11:41:42 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:45:35 [main]-[INFO] 测试数据xls{=, reason=, password=123456, 执行结果=failed, phone=17767188213, serial=TEST000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-11 11:45:35 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:45:35 [main]-[INFO] compareMaplast is{reason=, state=success}
+2016-06-11 11:45:35 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-11 11:45:35 [main]-[ERROR] failed
+2016-06-11 11:45:35 [main]-[INFO] 测试失败,发送的数据是{=, reason=, password=123456, 执行结果=failed, phone=17767188213, serial=TEST000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-11 11:45:35 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:45:36 [main]-[INFO] 测试数据xls{=, reason=该设备已被手机号为17767188213的用户绑定, password=123456, 执行结果=failed, phone=18767188213, serial=TEST000000000001, 是否执行=Y, state=fail, 编号=2}
+2016-06-11 11:45:36 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:45:36 [main]-[INFO] compareMaplast is{reason=该设备已被手机号为17767188213的用户绑定, state=fail}
+2016-06-11 11:45:36 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-11 11:45:36 [main]-[ERROR] failed
+2016-06-11 11:45:36 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备已被手机号为17767188213的用户绑定, password=123456, 执行结果=failed, phone=18767188213, serial=TEST000000000001, 是否执行=Y, state=fail, 编号=2}
+2016-06-11 11:45:36 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:45:36 [main]-[INFO] 测试数据xls{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=pass, phone=18767191571, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-11 11:45:36 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-11 11:45:36 [main]-[INFO] compareMaplast is{reason=该设备未登记，请联系我们售后客服查实, state=fail}
+2016-06-11 11:45:36 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-11 11:45:36 [main]-[ERROR] failed
+2016-06-11 11:45:36 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=pass, phone=18767191571, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-11 11:45:36 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}

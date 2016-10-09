@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="547" started-at="2016-05-12T14:11:06Z" finished-at="2016-05-12T14:11:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="547" started-at="2016-05-12T14:11:06Z" finished-at="2016-05-12T14:11:07Z">
+      <class name="com.h3tech.app.task.TestUserLogin">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.h3tech.app.task.TestUserLogin@6d8a00e3]" name="beforeSuite" is-config="true" duration-ms="9" started-at="2016-05-12T22:11:06Z" finished-at="2016-05-12T22:11:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.h3tech.app.task.TestUserLogin@6d8a00e3]" name="beforeClass" is-config="true" duration-ms="0" started-at="2016-05-12T22:11:06Z" finished-at="2016-05-12T22:11:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="TestLogin(java.util.Map)[pri:0, instance:com.h3tech.app.task.TestUserLogin@6d8a00e3]" name="TestLogin" duration-ms="326" started-at="2016-05-12T22:11:07Z" data-provider="dp" finished-at="2016-05-12T22:11:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=E10ADC3949BA59ABBE56E057F20F883E, phone=17767188213}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.h3tech.app.task.TestUserLogin@6d8a00e3]" name="afterClass" is-config="true" duration-ms="1" started-at="2016-05-12T22:11:07Z" finished-at="2016-05-12T22:11:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.h3tech.app.task.TestUserLogin@6d8a00e3]" name="afterSuite" is-config="true" duration-ms="0" started-at="2016-05-12T22:11:07Z" finished-at="2016-05-12T22:11:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.h3tech.app.task.TestUserLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

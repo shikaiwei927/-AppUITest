@@ -1,0 +1,285 @@
+2016-06-12 18:11:14 [main]-[INFO] 测试数据xls{=, reason=, password=123456, 执行结果=failed, phone=17767188213, serial=TEST000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-12 18:11:15 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:11:15 [main]-[INFO] compareMaplast is{reason=, state=success}
+2016-06-12 18:11:15 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:11:15 [main]-[ERROR] failed
+2016-06-12 18:11:15 [main]-[INFO] 测试失败,发送的数据是{=, reason=, password=123456, 执行结果=failed, phone=17767188213, serial=TEST000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-12 18:11:15 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:11:15 [main]-[INFO] 测试数据xls{=, reason=该设备已被手机号为17767188213的用户绑定, password=123456, 执行结果=failed, phone=18767188213, serial=TEST000000000001, 是否执行=Y, state=fail, 编号=2}
+2016-06-12 18:11:15 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:11:15 [main]-[INFO] compareMaplast is{reason=该设备已被手机号为17767188213的用户绑定, state=fail}
+2016-06-12 18:11:15 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:11:15 [main]-[ERROR] failed
+2016-06-12 18:11:15 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备已被手机号为17767188213的用户绑定, password=123456, 执行结果=failed, phone=18767188213, serial=TEST000000000001, 是否执行=Y, state=fail, 编号=2}
+2016-06-12 18:11:15 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:11:15 [main]-[INFO] 测试数据xls{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=failed, phone=18767191571, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-12 18:11:15 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:11:15 [main]-[INFO] compareMaplast is{reason=该设备未登记，请联系我们售后客服查实, state=fail}
+2016-06-12 18:11:15 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:11:15 [main]-[ERROR] failed
+2016-06-12 18:11:15 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=failed, phone=18767191571, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-12 18:11:15 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:17:19 [main]-[INFO] 测试数据xls{=, reason=, password=123456, 执行结果=failed, phone=17767188213, serial=TEST000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-12 18:17:19 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:17:19 [main]-[INFO] compareMaplast is{reason=, state=success}
+2016-06-12 18:17:19 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:17:19 [main]-[ERROR] failed
+2016-06-12 18:17:19 [main]-[INFO] 测试失败,发送的数据是{=, reason=, password=123456, 执行结果=failed, phone=17767188213, serial=TEST000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-12 18:17:19 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:17:20 [main]-[INFO] 测试数据xls{=, reason=该设备已被手机号为17767188213的用户绑定, password=123456, 执行结果=failed, phone=18767188213, serial=TEST000000000001, 是否执行=Y, state=fail, 编号=2}
+2016-06-12 18:17:20 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:17:20 [main]-[INFO] compareMaplast is{reason=该设备已被手机号为17767188213的用户绑定, state=fail}
+2016-06-12 18:17:20 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:17:20 [main]-[ERROR] failed
+2016-06-12 18:17:20 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备已被手机号为17767188213的用户绑定, password=123456, 执行结果=failed, phone=18767188213, serial=TEST000000000001, 是否执行=Y, state=fail, 编号=2}
+2016-06-12 18:17:20 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:17:20 [main]-[INFO] 测试数据xls{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=failed, phone=18767191571, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-12 18:17:20 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:17:20 [main]-[INFO] compareMaplast is{reason=该设备未登记，请联系我们售后客服查实, state=fail}
+2016-06-12 18:17:20 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:17:20 [main]-[ERROR] failed
+2016-06-12 18:17:20 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=failed, phone=18767191571, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-12 18:17:20 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:17:36 [main]-[INFO] 测试数据xls{=, reason=, password=123456, 执行结果=failed, phone=17767188213, serial=TEST000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-12 18:17:36 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:17:36 [main]-[INFO] compareMaplast is{reason=, state=success}
+2016-06-12 18:17:36 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:17:36 [main]-[ERROR] failed
+2016-06-12 18:17:36 [main]-[INFO] 测试失败,发送的数据是{=, reason=, password=123456, 执行结果=failed, phone=17767188213, serial=TEST000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-12 18:17:36 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:17:37 [main]-[INFO] 测试数据xls{=, reason=该设备已被手机号为17767188213的用户绑定, password=123456, 执行结果=failed, phone=18767188213, serial=TEST000000000001, 是否执行=Y, state=fail, 编号=2}
+2016-06-12 18:17:37 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:17:37 [main]-[INFO] compareMaplast is{reason=该设备已被手机号为17767188213的用户绑定, state=fail}
+2016-06-12 18:17:37 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:17:37 [main]-[ERROR] failed
+2016-06-12 18:17:37 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备已被手机号为17767188213的用户绑定, password=123456, 执行结果=failed, phone=18767188213, serial=TEST000000000001, 是否执行=Y, state=fail, 编号=2}
+2016-06-12 18:17:37 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:17:37 [main]-[INFO] 测试数据xls{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=failed, phone=18767191571, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-12 18:17:37 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:17:37 [main]-[INFO] compareMaplast is{reason=该设备未登记，请联系我们售后客服查实, state=fail}
+2016-06-12 18:17:37 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:17:37 [main]-[ERROR] failed
+2016-06-12 18:17:37 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=failed, phone=18767191571, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-12 18:17:37 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:18:38 [main]-[INFO] 测试数据xls{=, reason=, password=123456, 执行结果=failed, phone=17767188213, serial=TEST000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-12 18:18:38 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:18:38 [main]-[INFO] compareMaplast is{reason=, state=success}
+2016-06-12 18:18:38 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:18:38 [main]-[ERROR] failed
+2016-06-12 18:18:38 [main]-[INFO] 测试失败,发送的数据是{=, reason=, password=123456, 执行结果=failed, phone=17767188213, serial=TEST000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-12 18:18:38 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:18:38 [main]-[INFO] 测试数据xls{=, reason=该设备已被手机号为17767188213的用户绑定, password=123456, 执行结果=failed, phone=18767188213, serial=TEST000000000001, 是否执行=Y, state=fail, 编号=2}
+2016-06-12 18:18:38 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:18:38 [main]-[INFO] compareMaplast is{reason=该设备已被手机号为17767188213的用户绑定, state=fail}
+2016-06-12 18:18:38 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:18:38 [main]-[ERROR] failed
+2016-06-12 18:18:38 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备已被手机号为17767188213的用户绑定, password=123456, 执行结果=failed, phone=18767188213, serial=TEST000000000001, 是否执行=Y, state=fail, 编号=2}
+2016-06-12 18:18:38 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:18:38 [main]-[INFO] 测试数据xls{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=failed, phone=18767191571, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-12 18:18:38 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:18:38 [main]-[INFO] compareMaplast is{reason=该设备未登记，请联系我们售后客服查实, state=fail}
+2016-06-12 18:18:38 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:18:38 [main]-[ERROR] failed
+2016-06-12 18:18:38 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=failed, phone=18767191571, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-12 18:18:38 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:46:09 [main]-[INFO] 测试数据xls{=, reason=, password=123456, 执行结果=failed, phone=17767188213, serial=TEST000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-12 18:46:09 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:46:09 [main]-[INFO] compareMaplast is{reason=, state=success}
+2016-06-12 18:46:09 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:46:09 [main]-[ERROR] failed
+2016-06-12 18:46:09 [main]-[INFO] 测试失败,发送的数据是{=, reason=, password=123456, 执行结果=failed, phone=17767188213, serial=TEST000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-12 18:46:09 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:46:10 [main]-[INFO] 测试数据xls{=, reason=该设备已被手机号为17767188213的用户绑定, password=123456, 执行结果=failed, phone=18767188213, serial=TEST000000000001, 是否执行=Y, state=fail, 编号=2}
+2016-06-12 18:46:10 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:46:10 [main]-[INFO] compareMaplast is{reason=该设备已被手机号为17767188213的用户绑定, state=fail}
+2016-06-12 18:46:10 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:46:10 [main]-[ERROR] failed
+2016-06-12 18:46:10 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备已被手机号为17767188213的用户绑定, password=123456, 执行结果=failed, phone=18767188213, serial=TEST000000000001, 是否执行=Y, state=fail, 编号=2}
+2016-06-12 18:46:10 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:46:10 [main]-[INFO] 测试数据xls{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=failed, phone=18767191571, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-12 18:46:10 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:46:10 [main]-[INFO] compareMaplast is{reason=该设备未登记，请联系我们售后客服查实, state=fail}
+2016-06-12 18:46:10 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:46:10 [main]-[ERROR] failed
+2016-06-12 18:46:10 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=failed, phone=18767191571, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-12 18:46:10 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:47:32 [main]-[INFO] 测试数据xls{=, reason=, password=123456, 执行结果=failed, phone=17767188213, serial=TEST000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-12 18:47:32 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:47:32 [main]-[INFO] compareMaplast is{reason=, state=success}
+2016-06-12 18:47:32 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:47:32 [main]-[ERROR] failed
+2016-06-12 18:47:32 [main]-[INFO] 测试失败,发送的数据是{=, reason=, password=123456, 执行结果=failed, phone=17767188213, serial=TEST000000000001, 是否执行=Y, state=success, 编号=1}
+2016-06-12 18:47:32 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:47:33 [main]-[INFO] 测试数据xls{=, reason=该设备已被手机号为17767188213的用户绑定, password=123456, 执行结果=failed, phone=18767188213, serial=TEST000000000001, 是否执行=Y, state=fail, 编号=2}
+2016-06-12 18:47:33 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:47:33 [main]-[INFO] compareMaplast is{reason=该设备已被手机号为17767188213的用户绑定, state=fail}
+2016-06-12 18:47:33 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:47:33 [main]-[ERROR] failed
+2016-06-12 18:47:33 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备已被手机号为17767188213的用户绑定, password=123456, 执行结果=failed, phone=18767188213, serial=TEST000000000001, 是否执行=Y, state=fail, 编号=2}
+2016-06-12 18:47:33 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:47:33 [main]-[INFO] 测试数据xls{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=failed, phone=18767191571, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-12 18:47:33 [main]-[INFO] result is{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:47:33 [main]-[INFO] compareMaplast is{reason=该设备未登记，请联系我们售后客服查实, state=fail}
+2016-06-12 18:47:33 [main]-[INFO] resultmap is{reason=没有权限，重新登录尝试, state=fail}
+2016-06-12 18:47:33 [main]-[ERROR] failed
+2016-06-12 18:47:33 [main]-[INFO] 测试失败,发送的数据是{=, reason=该设备未登记，请联系我们售后客服查实, password=123456, 执行结果=failed, phone=18767191571, serial=, 是否执行=Y, state=fail, 编号=3}
+2016-06-12 18:47:33 [main]-[INFO] 结果是:{"reason":"没有权限，重新登录尝试","state":"fail"}
+2016-06-12 18:48:00 [main]-[INFO] 测试数据xls{reason=手机号与密码不正确，请重新输入后尝试登录, password=123456, 执行结果=pass, phone=17767188213, 是否执行=Y, state=fail, 编号=1}
+2016-06-12 18:48:01 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 18:48:01 [main]-[INFO] comparemaplast is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 18:48:01 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 18:48:01 [main]-[INFO] pass
+2016-06-12 18:48:01 [main]-[INFO] pass
+2016-06-12 19:26:54 [main]-[INFO] 测试数据xls{reason=, image=/, password=123456, 执行结果=failed, phone=18767191571, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 19:26:55 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:26:55 [main]-[INFO] comparemaplast is{reason=, image=/, name=奥特曼, state=success}
+2016-06-12 19:26:55 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 19:26:55 [main]-[ERROR] failed
+2016-06-12 19:26:55 [main]-[INFO] test failed,input data is {reason=, image=/, password=123456, 执行结果=failed, phone=18767191571, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 19:26:55 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:26:55 [main]-[INFO] 测试数据xls{reason=手机号与密码不正确，请重新输入后尝试登陆, image=/, password=, 执行结果=failed, phone=15000000001, 是否执行=Y, name=, state=fail, 编号=2}
+2016-06-12 19:26:55 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:26:55 [main]-[INFO] comparemaplast is{reason=手机号与密码不正确，请重新输入后尝试登陆, image=/, name=, state=fail}
+2016-06-12 19:26:55 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 19:26:55 [main]-[ERROR] failed
+2016-06-12 19:26:55 [main]-[INFO] test failed,input data is {reason=手机号与密码不正确，请重新输入后尝试登陆, image=/, password=, 执行结果=failed, phone=15000000001, 是否执行=Y, name=, state=fail, 编号=2}
+2016-06-12 19:26:55 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:31:41 [main]-[INFO] 测试数据xls{reason=, image=/, password=123456, 执行结果=failed, phone=18767191571, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 19:31:42 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:31:42 [main]-[INFO] comparemaplast is{reason=, image=/, name=奥特曼, state=success}
+2016-06-12 19:31:42 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 19:31:42 [main]-[ERROR] failed
+2016-06-12 19:31:42 [main]-[INFO] test failed,input data is {reason=, image=/, password=123456, 执行结果=failed, phone=18767191571, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 19:31:42 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:31:42 [main]-[INFO] 测试数据xls{reason=手机号与密码不正确，请重新输入后尝试登陆, image=/, password=, 执行结果=failed, phone=15000000001, 是否执行=Y, name=, state=fail, 编号=2}
+2016-06-12 19:31:42 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:31:42 [main]-[INFO] comparemaplast is{reason=手机号与密码不正确，请重新输入后尝试登陆, image=/, name=, state=fail}
+2016-06-12 19:31:42 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 19:31:42 [main]-[ERROR] failed
+2016-06-12 19:31:42 [main]-[INFO] test failed,input data is {reason=手机号与密码不正确，请重新输入后尝试登陆, image=/, password=, 执行结果=failed, phone=15000000001, 是否执行=Y, name=, state=fail, 编号=2}
+2016-06-12 19:31:42 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:35:43 [main]-[INFO] 测试数据xls{reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 19:35:43 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:35:43 [main]-[INFO] comparemaplast is{reason=, image=/, name=奥特曼, state=success}
+2016-06-12 19:35:43 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 19:35:43 [main]-[ERROR] failed
+2016-06-12 19:35:43 [main]-[INFO] test failed,input data is {reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 19:35:43 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:35:44 [main]-[INFO] 测试数据xls{reason=手机号与密码不正确，请重新输入后尝试登录, image=/, password=123456, 执行结果=failed, phone=18767188213, 是否执行=Y, name=, state=fail, 编号=2}
+2016-06-12 19:35:44 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:35:44 [main]-[INFO] comparemaplast is{reason=手机号与密码不正确，请重新输入后尝试登录, image=/, name=, state=fail}
+2016-06-12 19:35:44 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 19:35:44 [main]-[ERROR] failed
+2016-06-12 19:35:44 [main]-[INFO] test failed,input data is {reason=手机号与密码不正确，请重新输入后尝试登录, image=/, password=123456, 执行结果=failed, phone=18767188213, 是否执行=Y, name=, state=fail, 编号=2}
+2016-06-12 19:35:44 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:37:04 [main]-[INFO] 测试数据xls{reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 19:37:05 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:37:05 [main]-[INFO] comparemaplast is{reason=, image=/, name=奥特曼, state=success}
+2016-06-12 19:37:05 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 19:37:05 [main]-[ERROR] failed
+2016-06-12 19:37:05 [main]-[INFO] test failed,input data is {reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 19:37:05 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:37:05 [main]-[INFO] 测试数据xls{reason=, image=/, password=123456, 执行结果=pass, phone=18767188213, 是否执行=Y, name=奥特曼, state=success, 编号=2}
+2016-06-12 19:37:06 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:37:06 [main]-[INFO] comparemaplast is{reason=, image=/, name=奥特曼, state=success}
+2016-06-12 19:37:06 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 19:37:06 [main]-[ERROR] failed
+2016-06-12 19:37:06 [main]-[INFO] test failed,input data is {reason=, image=/, password=123456, 执行结果=pass, phone=18767188213, 是否执行=Y, name=奥特曼, state=success, 编号=2}
+2016-06-12 19:37:06 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:37:53 [main]-[INFO] 测试数据xls{reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 19:37:54 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:37:54 [main]-[INFO] comparemaplast is{reason=, image=/, name=奥特曼, state=success}
+2016-06-12 19:37:54 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 19:37:54 [main]-[ERROR] failed
+2016-06-12 19:37:54 [main]-[INFO] test failed,input data is {reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 19:37:54 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:37:54 [main]-[INFO] 测试数据xls{reason=, image=/, password=123456, 执行结果=failed, phone=18767191571, 是否执行=Y, name=奥特曼, state=success, 编号=2}
+2016-06-12 19:37:54 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:37:54 [main]-[INFO] comparemaplast is{reason=, image=/, name=奥特曼, state=success}
+2016-06-12 19:37:54 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 19:37:54 [main]-[ERROR] failed
+2016-06-12 19:37:54 [main]-[INFO] test failed,input data is {reason=, image=/, password=123456, 执行结果=failed, phone=18767191571, 是否执行=Y, name=奥特曼, state=success, 编号=2}
+2016-06-12 19:37:54 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:39:28 [main]-[INFO] 测试数据xls{reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 19:39:29 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:39:29 [main]-[INFO] comparemaplast is{reason=, image=/, name=奥特曼, state=success}
+2016-06-12 19:39:29 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 19:39:29 [main]-[ERROR] failed
+2016-06-12 19:39:29 [main]-[INFO] test failed,input data is {reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 19:39:29 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:39:29 [main]-[INFO] 测试数据xls{reason=, image=/, password=123456, 执行结果=failed, phone=18767191571, 是否执行=Y, name=奥特曼, state=success, 编号=2}
+2016-06-12 19:39:29 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:39:29 [main]-[INFO] comparemaplast is{reason=, image=/, name=奥特曼, state=success}
+2016-06-12 19:39:29 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 19:39:29 [main]-[ERROR] failed
+2016-06-12 19:39:29 [main]-[INFO] test failed,input data is {reason=, image=/, password=123456, 执行结果=failed, phone=18767191571, 是否执行=Y, name=奥特曼, state=success, 编号=2}
+2016-06-12 19:39:29 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:46:35 [main]-[INFO] 测试数据xls{reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 19:46:35 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:46:35 [main]-[INFO] comparemaplast is{reason=, image=/, name=奥特曼, state=success}
+2016-06-12 19:46:35 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 19:46:35 [main]-[ERROR] failed
+2016-06-12 19:46:35 [main]-[INFO] test failed,input data is {reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 19:46:35 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:46:36 [main]-[INFO] 测试数据xls{reason=, image=/, password=123456, 执行结果=failed, phone=18537242890, 是否执行=Y, name=杭州天策启瑞科技, state=success, 编号=2}
+2016-06-12 19:46:36 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 19:46:36 [main]-[INFO] comparemaplast is{reason=, image=/, name=杭州天策启瑞科技, state=success}
+2016-06-12 19:46:36 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 19:46:36 [main]-[ERROR] failed
+2016-06-12 19:46:36 [main]-[INFO] test failed,input data is {reason=, image=/, password=123456, 执行结果=failed, phone=18537242890, 是否执行=Y, name=杭州天策启瑞科技, state=success, 编号=2}
+2016-06-12 19:46:36 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 20:00:02 [main]-[INFO] 测试数据xls{reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 20:00:03 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 20:00:03 [main]-[INFO] comparemaplast is{reason=, image=/, name=奥特曼, state=success}
+2016-06-12 20:00:03 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 20:00:03 [main]-[ERROR] failed
+2016-06-12 20:00:03 [main]-[INFO] test failed,input data is {reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 20:00:03 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 20:00:03 [main]-[INFO] 测试数据xls{reason=, image=/, password=123456, 执行结果=failed, phone=18537242890, 是否执行=Y, name=杭州天策启瑞科技, state=success, 编号=2}
+2016-06-12 20:00:04 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 20:00:04 [main]-[INFO] comparemaplast is{reason=, image=/, name=杭州天策启瑞科技, state=success}
+2016-06-12 20:00:04 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 20:00:04 [main]-[ERROR] failed
+2016-06-12 20:00:04 [main]-[INFO] test failed,input data is {reason=, image=/, password=123456, 执行结果=failed, phone=18537242890, 是否执行=Y, name=杭州天策启瑞科技, state=success, 编号=2}
+2016-06-12 20:00:04 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 20:01:19 [main]-[INFO] 测试数据xls{reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 20:01:20 [main]-[INFO] result is{"reason":"","image":"/","name":"SG18537242890","state":"success"}
+2016-06-12 20:01:20 [main]-[INFO] comparemaplast is{reason=, image=/, name=奥特曼, state=success}
+2016-06-12 20:01:20 [main]-[INFO] resultmap is{reason=, image=/, name=SG18537242890, state=success}
+2016-06-12 20:01:20 [main]-[ERROR] failed
+2016-06-12 20:01:20 [main]-[INFO] test failed,input data is {reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 20:01:20 [main]-[INFO] 结果是：{"reason":"","image":"/","name":"SG18537242890","state":"success"}
+2016-06-12 20:01:20 [main]-[INFO] 测试数据xls{reason=, image=/, password=123456, 执行结果=failed, phone=18537242890, 是否执行=Y, name=杭州天策启瑞科技, state=success, 编号=2}
+2016-06-12 20:01:20 [main]-[INFO] result is{"reason":"","image":"/","name":"SG18537242890","state":"success"}
+2016-06-12 20:01:20 [main]-[INFO] comparemaplast is{reason=, image=/, name=杭州天策启瑞科技, state=success}
+2016-06-12 20:01:20 [main]-[INFO] resultmap is{reason=, image=/, name=SG18537242890, state=success}
+2016-06-12 20:01:20 [main]-[ERROR] failed
+2016-06-12 20:01:20 [main]-[INFO] test failed,input data is {reason=, image=/, password=123456, 执行结果=failed, phone=18537242890, 是否执行=Y, name=杭州天策启瑞科技, state=success, 编号=2}
+2016-06-12 20:01:20 [main]-[INFO] 结果是：{"reason":"","image":"/","name":"SG18537242890","state":"success"}
+2016-06-12 20:04:31 [main]-[INFO] 测试数据xls{reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 20:04:32 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 20:04:32 [main]-[INFO] comparemaplast is{reason=, image=/, name=奥特曼, state=success}
+2016-06-12 20:04:32 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 20:04:32 [main]-[ERROR] failed
+2016-06-12 20:04:32 [main]-[INFO] test failed,input data is {reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 20:04:32 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 20:04:32 [main]-[INFO] 测试数据xls{reason=, image=/, password=123456, 执行结果=failed, phone=18537242890, 是否执行=Y, name=SG18537242890, state=success, 编号=2}
+2016-06-12 20:04:32 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 20:04:32 [main]-[INFO] comparemaplast is{reason=, image=/, name=SG18537242890, state=success}
+2016-06-12 20:04:32 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 20:04:32 [main]-[ERROR] failed
+2016-06-12 20:04:32 [main]-[INFO] test failed,input data is {reason=, image=/, password=123456, 执行结果=failed, phone=18537242890, 是否执行=Y, name=SG18537242890, state=success, 编号=2}
+2016-06-12 20:04:32 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 20:18:01 [main]-[INFO] 测试数据xls{reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 20:18:02 [main]-[INFO] result is{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 20:18:02 [main]-[INFO] comparemaplast is{reason=, image=/, name=奥特曼, state=success}
+2016-06-12 20:18:02 [main]-[INFO] resultmap is{reason=手机号与密码不正确，请重新输入后尝试登录, state=fail}
+2016-06-12 20:18:02 [main]-[ERROR] failed
+2016-06-12 20:18:02 [main]-[INFO] test failed,input data is {reason=, image=/, password=7ujMko0, 执行结果=failed, phone=17767188213, 是否执行=Y, name=奥特曼, state=success, 编号=1}
+2016-06-12 20:18:02 [main]-[INFO] 结果是：{"reason":"手机号与密码不正确，请重新输入后尝试登录","state":"fail"}
+2016-06-12 20:18:02 [main]-[INFO] 测试数据xls{reason=, image=/, password=E10ADC3949BA59ABBE56E057F20F883E, 执行结果=failed, phone=18537242890, 是否执行=Y, name=SG18537242890, state=success, 编号=2}
+2016-06-12 20:18:02 [main]-[INFO] result is{"reason":"","image":"/","name":"SG18537242890","state":"success"}
+2016-06-12 20:18:02 [main]-[INFO] comparemaplast is{reason=, image=/, name=SG18537242890, state=success}
+2016-06-12 20:18:02 [main]-[INFO] resultmap is{reason=, image=/, name=SG18537242890, state=success}
+2016-06-12 20:18:02 [main]-[INFO] pass
+2016-06-12 20:18:02 [main]-[INFO] pass
